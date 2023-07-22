@@ -18,10 +18,11 @@ Sou uma pessoa extremamente dedicada aos estudos e apaixonada por tecnologia e s
 
 zap My Skills:
 
-![image](https://github.com/guigavicentin/Guigas/assets/42190595/b55b67b8-249b-42ac-8fbc-0e8f75214a67)
-![image](https://github.com/guigavicentin/Guigas/assets/42190595/7668df6e-2569-495e-bde7-2d9b3b2ac6e2)
-![image](https://github.com/guigavicentin/Guigas/assets/42190595/321ae9ff-0e3b-4ba5-aa02-5ff46e8a8d4c)
-![image](https://github.com/guigavicentin/Guigas/assets/42190595/67aeb63a-1b14-46a9-8f55-74a767bffd72)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
