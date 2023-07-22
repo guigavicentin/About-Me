@@ -16,11 +16,11 @@ Sou uma pessoa extremamente dedicada aos estudos e apaixonada por tecnologia e s
 
 - **Aprendizado Contínuo:** Minha vontade de aprender é constante, e estou sempre em busca de novas oportunidades de crescimento através de cursos, workshops e palestras.
 
-zap My Skills:
+Minhas Habilidades:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,grafana,vim,html" />
   </a>
 </p>
 
