@@ -2,6 +2,7 @@
 Sou uma pessoa extremamente dedicada aos estudos e apaixonada por tecnologia e segurança cibernética. Constantemente busco me aprimorar e me manter atualizado nas mais recentes tendências e desenvolvimentos nesses campos.
 
 Habilidades
+
 Segurança Cibernética: Experiência em identificar vulnerabilidades, realizar testes de penetração e implementar medidas para proteger sistemas e redes contra ameaças.
 
 Capture The Flag (CTF): Participação ativa em competições CTF, onde resolvo desafios de segurança cibernética e aprimoro minha capacidade de solucionar problemas complexos.
