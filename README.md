@@ -1,17 +1,17 @@
 # 💫 About Me:
-Sou uma pessoa extremamente dedicada aos estudos e apaixonada por tecnologia e segurança cibernética. Constantemente busco me aprimorar e me manter atualizado nas mais recentes tendências e desenvolvimentos nesses campos.
+Sou uma pessoa extremamente dedicada aos estudos, apaixonada por tecnologia e segurança cibernética. Estou sempre em busca de aprimoramento e de me manter atualizado sobre as mais recentes tendências e inovações nesses campos.
 
 Habilidades
 
-Segurança Cibernética: Experiência em identificar vulnerabilidades, realizar testes de penetração e implementar medidas para proteger sistemas e redes contra ameaças.
+Segurança Cibernética: Experiência em identificar vulnerabilidades, conduzir Pentest e implementar medidas de mitigação para proteger sistemas e redes contra ameaças.
 
-Capture The Flag (CTF): Participação ativa em competições CTF, onde resolvo desafios de segurança cibernética e aprimoro minha capacidade de solucionar problemas complexos.
+Monitoramento de Leaks: Realizo acompanhamento de leaks em diversos fóruns e ferramentas. 
 
-Gerenciamento de Projetos: Habilidade em planejar e coordenar projetos, garantindo entregas pontuais e eficientes.
+Gerenciamento de Projetos: Competência em planejar e coordenar projetos de forma eficiente, assegurando que as entregas sejam feitas dentro dos prazos estabelecidos.
 
-Análise de Sistemas: Capacidade de analisar arquiteturas de sistemas e identificar possíveis melhorias em termos de segurança e desempenho.
+Análise de Sistemas: Habilidade em analisar arquiteturas de sistemas, identificar vulnerabilidades e propor melhorias para otimizar segurança e desempenho.
 
-Aprendizado Contínuo: Minha vontade de aprender é constante, e estou sempre em busca de novas oportunidades de crescimento através de cursos, workshops e palestras.
+Aprendizado Contínuo: Comprometido com o aprendizado constante, participando de cursos, workshops e palestras para continuar evoluindo e expandindo meus conhecimentos.
 
 
 ## 🌐 Socials:
